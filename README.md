@@ -6,11 +6,11 @@
   <tr>
     <td>
 
-🎓 B.Tech CSE @ Siksha ’O’ Anusandhan University  
-🤖 Passionate about <b>AI, NLP, Deep Learning</b>  
-🧠 Research Intern @ <b>Indian Statistical Institute, Kolkata</b> (Published work on breast cancer detection)  
-💻 Currently: <b>AI & Backend Intern @ A1 Future Technologies</b>  
-🌐 <b>Portfolio</b>: [uddalakmukhopadhyay.netlify.app](https://uddalakmukhopadhyay.netlify.app/)
+- 🎓 B.Tech CSE @ Siksha ’O’ Anusandhan University  <br>
+- 🤖 Passionate about <b>AI, NLP, Deep Learning</b>  <br>
+- 🧠 Research Intern @ <b>Indian Statistical Institute, Kolkata</b> (Published work on breast cancer detection)  <br>
+- 💻 Currently: <b>AI & Backend Intern @ A1 Future Technologies</b>  <br>
+- 🌐 <b>Portfolio</b>: [uddalakmukhopadhyay.netlify.app](https://uddalakmukhopadhyay.netlify.app/)
 
 </td>
 <td>

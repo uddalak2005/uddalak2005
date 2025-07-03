@@ -6,7 +6,8 @@
   🎓 B.Tech CSE @ Siksha ’O’ Anusandhan University <br>
   🤖 Passionate about <b>AI, NLP, Deep Learning</b> <br>
   🧠 Research Intern @ <b>Indian Statistical Institute, Kolkata</b> (Published work on breast cancer detection) <br>
-  💻 Currently: <b>AI & Backend Intern @ A1 Future Technologies</b>
+  💻 Currently: <b>AI & Backend Intern @ A1 Future Technologies</b> <br>
+  🌐 <b>Portfolio<b>: https://uddalakmukhopadhyay.netlify.app/
 </p>
 
 ---

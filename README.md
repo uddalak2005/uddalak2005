@@ -2,13 +2,24 @@
 
 <h1 align="center">👋 Hey there, I'm Uddalak Mukhopadhyay!</h1>
 
-<p align="center">
-  🎓 B.Tech CSE @ Siksha ’O’ Anusandhan University <br>
-  🤖 Passionate about <b>AI, NLP, Deep Learning</b> <br>
-  🧠 Research Intern @ <b>Indian Statistical Institute, Kolkata</b> (Published work on breast cancer detection) <br>
-  💻 Currently: <b>AI & Backend Intern @ A1 Future Technologies</b> <br>
-  🌐 <b>Portfolio<b>: https://uddalakmukhopadhyay.netlify.app/
-</p>
+<table>
+  <tr>
+    <td>
+
+🎓 B.Tech CSE @ Siksha ’O’ Anusandhan University  
+🤖 Passionate about <b>AI, NLP, Deep Learning</b>  
+🧠 Research Intern @ <b>Indian Statistical Institute, Kolkata</b> (Published work on breast cancer detection)  
+💻 Currently: <b>AI & Backend Intern @ A1 Future Technologies</b>  
+🌐 <b>Portfolio</b>: [uddalakmukhopadhyay.netlify.app](https://uddalakmukhopadhyay.netlify.app/)
+
+</td>
+<td>
+  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" width="300" alt="Tech GIF" />
+</td>
+  </tr>
+</table>
+
+
 
 ---
 

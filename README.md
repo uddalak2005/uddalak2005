@@ -52,6 +52,7 @@ I'm a **developer**, **researcher**, and **problem-solver** driven by curiosity 
 ## 🏆 Achievements
 
 - 🥈 1st Runners Up – **Diversion 2K25** (30hr MLH Hackathon)
+- 🥈 1st Runners Up – **Hexafalls** (32hr Offline Hackathon)
 - 🧠 Finalist – **Smart India Hackathon (SIH 2024)**
 - ⚔️ Participant – **HackerWar 5.0** & **SOA ESummit**
 
